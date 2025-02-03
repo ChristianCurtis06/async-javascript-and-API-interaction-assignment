@@ -1,0 +1,1 @@
+This repository includes the assignment: Async JavaScript and API Interaction in Module 10: Lesson 6 of the Software Engineering Core.
